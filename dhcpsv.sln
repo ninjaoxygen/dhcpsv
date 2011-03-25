@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dhcpsv", "dhcpsv.vcproj", "{CBB844F5-D953-4F89-830F-D1E3FDC1175C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dhcpsvgui", "dhcpsvgui\dhcpsvgui.vcproj", "{1BC38A02-EBF5-403E-9835-AC1F7C3C8BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBB844F5-D953-4F89-830F-D1E3FDC1175C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CBB844F5-D953-4F89-830F-D1E3FDC1175C}.Debug|Win32.Build.0 = Debug|Win32
+		{CBB844F5-D953-4F89-830F-D1E3FDC1175C}.Release|Win32.ActiveCfg = Release|Win32
+		{1BC38A02-EBF5-403E-9835-AC1F7C3C8BEC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1BC38A02-EBF5-403E-9835-AC1F7C3C8BEC}.Debug|Win32.Build.0 = Debug|Win32
+		{1BC38A02-EBF5-403E-9835-AC1F7C3C8BEC}.Release|Win32.ActiveCfg = Release|Win32
+		{1BC38A02-EBF5-403E-9835-AC1F7C3C8BEC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

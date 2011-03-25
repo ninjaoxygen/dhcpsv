@@ -1,0 +1,12 @@
+*.vcproj.*.user
+*.ncb
+*.obj
+*.pdb
+*.idb
+*.dep
+*.suo
+*.intermediate.*
+*.pch
+*.res
+BuildLog.htm
+local/*
